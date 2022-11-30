@@ -1,7 +1,7 @@
 # TIC TAC TOE
 A simple Tic Tac Toe game written in Qt. 
 
-<img scr ="[ezgif.com-gif-maker.gif](https://github.com/Sumia1479/TTT/blob/main/ezgif.com-gif-maker.gif)">
+<img scr ="https://github.com/Sumia1479/TTT/blob/main/ezgif.com-gif-maker.gif">
 
 <h1> Development environment </h1>
 <ul>  

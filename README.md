@@ -12,9 +12,9 @@ A simple Tic Tac Toe game written in Qt.
   <li> <s> Player vs Player Mode </s> </li>
   <li> Player vs Computer Mode </li>
   <li> Game difficulty option 
-      <li> Implement minimax algorithm </li>
+      <ul> <li> Implement minimax algorithm </li> </ul>
   </li>
-  <li >Add 5x5 and 7x7 boards <li>
+  <li> Add 5x5 and 7x7 boards <li>
   
 </ul>
 

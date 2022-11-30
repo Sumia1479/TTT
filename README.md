@@ -2,4 +2,8 @@
 A simple Tic Tac Toe game written in Qt
 
 <h1> Development environment </h1>
-<list> io/mac </list>
+<ul>  
+  <li> io/mac </li>
+  <li> Qt Creator 6.4.0 </li>
+</ul>
+
